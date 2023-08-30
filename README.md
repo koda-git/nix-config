@@ -1,2 +1,2 @@
-# arch-dotfiles
+# dotfiles
 In Progress
