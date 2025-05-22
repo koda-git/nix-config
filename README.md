@@ -1,3 +1,2 @@
 # dotfiles
-~~Basic NIX Configuration for the Thinkpad T480S~~<br />
-Basic template for nixos for hobby project deployment / desktop use(?)
+This is my current Nix config for my Framework 13 (7040 AMD) Laptop
